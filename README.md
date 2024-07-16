@@ -1,8 +1,6 @@
 # Kernel360 Boot-up 프로젝트
 
- - 진행 기간 :
- - 프로젝트 배경 : 
- - 팀 구성 :
+### 🔲 [기획안 WIKI](https://www.notion.so/328f33a6d15948ecb81306de2372283b?v=2b3fd3e8647740aa8d0e4566ea804ca4&pvs=4) 링크
 
  - 세부적인 기능
 
