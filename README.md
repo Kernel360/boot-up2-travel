@@ -58,6 +58,7 @@
 - https://www.erdcloud.com/d/zDM73NeDjkrGvurS3
 
 ## ◾ 아키텍쳐
+![image](https://github.com/user-attachments/assets/5e05d849-6b4b-4f6c-a7f4-f21b51edb3ff)
 
 
 ## ◾ 기능 명세
