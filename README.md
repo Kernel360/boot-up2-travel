@@ -21,18 +21,13 @@
 
 저희는 각 트렌드별 테마 키워드를 도출하고, 이를 활용한 인기 여행 장소를 추천합니다.
 
-## ◾ 고객 조사
-
-### ◾고객 정의
+# ◾ 사용자 정의
 
 1. **`Who?` *누가 사용하는가?***
     
     > **연인 또는 친구와 국내 여행을 가려하는 계획을 
     세울 여유가 없는 바쁜 20~30대 `사회 초년생`**
-    
-    
 <image width="300px" src="https://github.com/user-attachments/assets/962fe485-fa7b-4951-b207-4c817003a721"/>
-
 - `특징 0` 여행 계획을 세울 때 의견 취합에 어려움을 겪는다.
 - `특징 1` 여행 계획을 세웠지만 잘 세운 것인지 확신이 없다.
 - `특징 2`. **예산 한계**가 정해져 있다. (최대 허용 금액)
@@ -42,10 +37,11 @@
     ex) 식비를 더 쓴다 vs 숙소비를 더 쓴다* 
     
 1. **`What?` 어떤 기능을 제공하나요?** 
-    1. 최신 트렌드에 맞는 테마 별로 여행 장소를 추천
-    2. 희망하는 여행 장소들을 플래너로 저장 및 관리 
+   ### 1. 💁 최신 트렌드에 맞는 테마 별로 여행 장소를 추천해줍니다.
+   ### 2. 📑 희망하는 여행 장소들을 플래너로 저장 및 관리합니다.
+    <image width="" src="https://github.com/user-attachments/assets/26449a40-b173-4eeb-b428-b8d0f7e76e59"/>
 
-## ◾ 저희는 이렇게 일했어요
+# ◾ 저희는 이렇게 일했어요
 
 - `figjam`을 활용한 서비스 흐름 설계
     
@@ -57,23 +53,31 @@
    ![ttt](https://github.com/user-attachments/assets/4d4ec45a-bb7d-4528-8ea4-495b11ab2a50)
    https://excalidraw.com/#json=OW_9SGp7rQIzz9bks0Bmv,TlxCTFOx2dl--IXema-fhg
 
-## ◾ 기능 명세
-
-<img width="818" alt="스크린샷 2024-07-18 오후 2 31 17" src="https://github.com/user-attachments/assets/874dafa4-023a-4802-a92a-8f7a87f7f8e6">
-<img width="833" alt="스크린샷 2024-07-18 오후 2 31 35" src="https://github.com/user-attachments/assets/e2d40b64-9704-4cfd-a9a1-3a886a5b9c79">
-<img width="1041" alt="스크린샷 2024-07-18 오후 2 32 08" src="https://github.com/user-attachments/assets/c2d3a724-cec1-4fb8-8844-8f3501888820">
-<img width="844" alt="스크린샷 2024-07-18 오후 2 32 22" src="https://github.com/user-attachments/assets/1278e9e3-860c-430a-aac8-930365287ff9">
-
 ## ◾ ER 다이어그램
-
 - https://www.erdcloud.com/d/zDM73NeDjkrGvurS3
 
+## ◾ 아키텍쳐
 ![TripDiary](https://github.com/user-attachments/assets/3c9f6ad6-ba08-4662-b962-4552da6de81d)
 
+## ◾ 기능 명세
 
-### ◾ API 명세서
-<img width="1185" alt="스크린샷 2024-07-18 오후 2 36 53" src="https://github.com/user-attachments/assets/62353bfd-9d4b-4a43-abbe-3bc8d2b2cd8f">
+### 사용자
+<img width="818" alt="스크린샷 2024-07-18 오후 2 31 17" src="https://github.com/user-attachments/assets/874dafa4-023a-4802-a92a-8f7a87f7f8e6">
+
+### 데이터
+<img width="833" alt="스크린샷 2024-07-18 오후 2 31 35" src="https://github.com/user-attachments/assets/e2d40b64-9704-4cfd-a9a1-3a886a5b9c79">
+
+### 플래너
+<image width="" src="https://github.com/user-attachments/assets/ab17322d-6e2d-4f07-9e26-a6f676b2f005"/>
+<br/>
+<image width="" src="https://github.com/user-attachments/assets/fcd87e57-2f56-4d26-94f4-f17dcd779995"/>
+<img width="1041" alt="스크린샷 2024-07-18 오후 2 32 08" src="https://github.com/user-attachments/assets/c2d3a724-cec1-4fb8-8844-8f3501888820">
+    
+### 관리자
+<img width="844" alt="스크린샷 2024-07-18 오후 2 32 22" src="https://github.com/user-attachments/assets/1278e9e3-860c-430a-aac8-930365287ff9">
+
+내용 추가 예정입니다.
+---
 
 
 
-### TODO: 위 그림 그린거를 좀 세분화해서 설명하면 끝입니다.
