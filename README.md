@@ -59,18 +59,21 @@
 
 ## ◾ 기능 명세
 
-![image](https://github.com/user-attachments/assets/4742635b-24ab-48c4-8954-9ac2906c3aef)
-
-![image](https://github.com/user-attachments/assets/0cd68ddc-c289-4d95-8a96-af97fbb2d270)
-
-![image](https://github.com/user-attachments/assets/29ee83fc-9c9c-483d-82b7-f52da7b7a297)
+<img width="818" alt="스크린샷 2024-07-18 오후 2 31 17" src="https://github.com/user-attachments/assets/874dafa4-023a-4802-a92a-8f7a87f7f8e6">
+<img width="833" alt="스크린샷 2024-07-18 오후 2 31 35" src="https://github.com/user-attachments/assets/e2d40b64-9704-4cfd-a9a1-3a886a5b9c79">
+<img width="1041" alt="스크린샷 2024-07-18 오후 2 32 08" src="https://github.com/user-attachments/assets/c2d3a724-cec1-4fb8-8844-8f3501888820">
+<img width="844" alt="스크린샷 2024-07-18 오후 2 32 22" src="https://github.com/user-attachments/assets/1278e9e3-860c-430a-aac8-930365287ff9">
 
 ## ◾ ER 다이어그램
 
 - https://www.erdcloud.com/d/zDM73NeDjkrGvurS3
 
-![TripDiary](https://github.com/user-attachments/assets/408ad840-8814-4303-88c1-fc78b11a153d)
+![TripDiary](https://github.com/user-attachments/assets/3c9f6ad6-ba08-4662-b962-4552da6de81d)
+
 
 ### ◾ API 명세서
+<img width="1185" alt="스크린샷 2024-07-18 오후 2 36 53" src="https://github.com/user-attachments/assets/62353bfd-9d4b-4a43-abbe-3bc8d2b2cd8f">
+
+
 
 ### TODO: 위 그림 그린거를 좀 세분화해서 설명하면 끝입니다.
