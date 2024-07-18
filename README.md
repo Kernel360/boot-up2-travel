@@ -18,6 +18,7 @@
 ---
 
 # 🌈 테마별  종합 여행 플래너🧳
+<img width="600" src="https://github.com/user-attachments/assets/c64b1d6a-709e-4df4-b5b0-6a959cad809c" />
 
 저희는 각 트렌드별 테마 키워드를 도출하고, 이를 활용한 인기 여행 장소를 추천합니다.
 
