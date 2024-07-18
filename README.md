@@ -26,15 +26,12 @@
 1. **`Who?` *누가 사용하는가?***
     
     > **연인 또는 친구와 국내 여행을 가려하는 계획을 
-    세울 여유가 없는 바쁜 20~30대 `사회 초년생`**
-<image width="300px" src="https://github.com/user-attachments/assets/962fe485-fa7b-4951-b207-4c817003a721"/>
-- `특징 0` 여행 계획을 세울 때 의견 취합에 어려움을 겪는다.
-- `특징 1` 여행 계획을 세웠지만 잘 세운 것인지 확신이 없다.
-- `특징 2`. **예산 한계**가 정해져 있다. (최대 허용 금액)
+    세울 여유가 없는 바쁜 20~30대 `사회 초년생`**<br/>
+<image width="300px" src="https://github.com/user-attachments/assets/962fe485-fa7b-4951-b207-4c817003a721"/><br/>
+- `특징 0` 여행 계획을 세울 때 의견 취합에 어려움을 겪는다.<br/>
+- `특징 1` 여행 계획을 세웠지만 잘 세운 것인지 확신이 없다.<br/>
+- `특징 2`. **예산 한계**가 정해져 있다. (최대 허용 금액)<br/>
 - `특징 3`. **예산 분배의 중요도가 서로 다르다**.
-    
-    *사람마다 돈을 더 쓰고 싶은 활동 돈을 덜 쓰고 싶은 활동이 다르다.
-    ex) 식비를 더 쓴다 vs 숙소비를 더 쓴다* 
     
 1. **`What?` 어떤 기능을 제공하나요?** 
    ### 1. 💁 최신 트렌드에 맞는 테마 별로 여행 장소를 추천해줍니다.
@@ -89,10 +86,10 @@
 <img width="833" alt="스크린샷 2024-07-18 오후 2 31 35" src="https://github.com/user-attachments/assets/e2d40b64-9704-4cfd-a9a1-3a886a5b9c79">
 
 ### 플래너
+<img width="1041" alt="스크린샷 2024-07-18 오후 2 32 08" src="https://github.com/user-attachments/assets/c2d3a724-cec1-4fb8-8844-8f3501888820">
 <image width="" src="https://github.com/user-attachments/assets/ab17322d-6e2d-4f07-9e26-a6f676b2f005"/>
 <br/>
 <image width="" src="https://github.com/user-attachments/assets/fcd87e57-2f56-4d26-94f4-f17dcd779995"/>
-<img width="1041" alt="스크린샷 2024-07-18 오후 2 32 08" src="https://github.com/user-attachments/assets/c2d3a724-cec1-4fb8-8844-8f3501888820">
     
 ### 관리자
 <img width="844" alt="스크린샷 2024-07-18 오후 2 32 22" src="https://github.com/user-attachments/assets/1278e9e3-860c-430a-aac8-930365287ff9">
