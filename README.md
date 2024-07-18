@@ -60,6 +60,25 @@
 ## ◾ 아키텍쳐
 ![image](https://github.com/user-attachments/assets/5e05d849-6b4b-4f6c-a7f4-f21b51edb3ff)
 
+### 프론트엔드
+- React Native
+
+### 백엔드
+
+- Java 17
+- Spring Boot
+- Spring Batch
+
+### DB
+- MySQL
+
+### 인프라
+- AWS Cloud
+
+### 사용하는 외부 API
+- SK open API
+- Social Login APi
+
 
 ## ◾ 기능 명세
 
