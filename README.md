@@ -54,10 +54,11 @@
    https://excalidraw.com/#json=OW_9SGp7rQIzz9bks0Bmv,TlxCTFOx2dl--IXema-fhg
 
 ## ◾ ER 다이어그램
+![TripDiary](https://github.com/user-attachments/assets/3c9f6ad6-ba08-4662-b962-4552da6de81d)
 - https://www.erdcloud.com/d/zDM73NeDjkrGvurS3
 
 ## ◾ 아키텍쳐
-![TripDiary](https://github.com/user-attachments/assets/3c9f6ad6-ba08-4662-b962-4552da6de81d)
+
 
 ## ◾ 기능 명세
 
