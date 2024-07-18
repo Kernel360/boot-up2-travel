@@ -49,7 +49,6 @@
    
    저의 팀이 진행한 MVP 기능 설계도 작업 화면 입니다.
    ![ttt](https://github.com/user-attachments/assets/4d4ec45a-bb7d-4528-8ea4-495b11ab2a50)
-   https://excalidraw.com/#json=OW_9SGp7rQIzz9bks0Bmv,TlxCTFOx2dl--IXema-fhg
 
 ## ◾ ER 다이어그램
 ![TripDiary](https://github.com/user-attachments/assets/3c9f6ad6-ba08-4662-b962-4552da6de81d)
